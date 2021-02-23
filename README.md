@@ -1,1 +1,0 @@
-Jednoduchý modul sledování èáry pro univerzální použití.
