@@ -1,125 +1,266 @@
-<h3>Creative Commons Uveďte původ-Neužívejte komerčně-Zachovejte licenci 4.0 Mezinárodní Veřejná licence</h3>
-<p>Výkonem Licencovaných práv (jak jsou definována níže) souhlasíte s licenčními podmínkami Creative Commons Uveďte původ-Neužívejte komerčně-Zachovejte licenci 4.0 Mezinárodní veřejná licence (dále jen „Veřejná licence“) a zavazujete se je dodržovat. V rozsahu, v jakém lze tuto Veřejnou licenci chápat jako smlouvu, je Vám oprávnění vykonávat Licencovaná práva uděleno jako protiplnění za Váš souhlas s těmito licenčními podmínkami. Poskytovatel Vám toto oprávnění poskytuje jako protiplnění za výhody, které pro něj vyplývají z toho, že je Licencovaný obsah zpřístupňován za těchto licenčních podmínek.</p>
-<p id="s1"><strong>Článek 1 - Definice.</strong></p>
-<ol type="a">
-<li id="s1a"><strong>Zpracovaným obsahem</strong> se rozumí obsah, na který se vztahují Autorská a obdobná práva, který je odvozený od Licencovaného obsahu, nebo z něj vychází, a v němž je Licencovaný obsah přeložen, pozměněn, uspořádán, změněn nebo jinak upraven způsobem vyžadujícím svolení Poskytovatele. Pro účely této Veřejné licence platí, že pokud je Licencovaným obsahem hudební dílo, výkon výkonného umělce nebo zvukový záznam, je vždy vytvořen Zpracovaný obsah v případě, že je Licencovaný obsah časově synchronně spojen s pohyblivou obrazovou složkou.</li>
-<li id="s1b"><strong>Licencí zpracovatele</strong> se rozumí oprávnění k výkonu Autorských a obdobných práv k Vašemu příspěvku ke Zpracovanému obsahu poskytované v souladu s podmínkami této Veřejné licence.</li>
-<li id="s1c"><strong>Licencí kompatibilní s BY-NC-SA</strong> se rozumí licence uvedená na <a href="//creativecommons.org/compatiblelicenses"> creativecommons.org/compatiblelicenses</a>, schválená Creative Commons jako v zásadě rovnocenná s touto Veřejnou licencí.</li>
-<li id="s1d"><strong>Autorskými a obdobnými právy</strong> se rozumí autorská práva a/nebo obdobná práva, úzce související s právem autorským, zahrnující mimo jiné, nikoliv však výlučně, práva k výkonu výkonného umělce, práva vysílatele, práva výrobce zvukového záznamu a zvláštní práva pořizovatele databáze, bez ohledu na to, jak jsou tato práva označena nebo kategorizována. Pro účely této Veřejné licence nespadají práva uvedená v článku 2(b)(1)-(2) mezi Autorská a obdobná práva.</li>
-<li id="s1e"><strong>Účinnými technickými prostředky</strong> se rozumí takové prostředky, které nelze bez příslušného oprávnění obejít, dle předpisů, které byly přijaty za účelem splnění závazků vyplývajících z článku 11 Smlouvy WIPO o autorském právu přijaté 20. prosince 1996 a/nebo obdobných mezinárodních dohod.</li>
-<li id="s1f"><strong>Výjimkami a omezeními</strong> se rozumí poctivé užití („fair use“), poctivé zacházení („fair dealing“) a/nebo jakákoli další výjimka nebo omezení Autorských a obdobných práv, uplatňující se na Vaše užití Licencovaného obsahu.</li>
-<li id="s1g"><strong>Licenčními prvky</strong> se rozumí podstatné znaky licence uvedené v názvu této Veřejné licence Creative Commons. Licenční prvky této Veřejné licence jsou Uveďte původ, Neužívejte komerčně a Zachovejte licenci.</li>
-<li id="s1h"><strong>Licencovaným obsahem</strong> se rozumí umělecké nebo literární dílo, databáze nebo jiný obsah, k němuž Poskytovatel poskytuje tuto Veřejnou licenci.</li>
-<li id="s1i"><strong>Licencovanými právy</strong> se rozumí práva, k jejichž výkonu je Vám uděleno oprávnění za podmínek stanovených touto Veřejnou licencí, která se omezují na veškerá Autorská a obdobná práva, vztahující se na Vaše užití Licencovaného obsahu a která je Poskytovatel oprávněn licencovat.</li>
-<li id="s1j"><strong>Poskytovatelem</strong> se rozumí fyzická nebo právnická osoba (osoby), která uděluje oprávnění k výkonu práv na základě této Veřejné licence.</li>
-<li id="s1k"><strong>Nekomerčním</strong> se rozumí nikoliv prvotně zamýšlený nebo určený pro získání obchodního prospěchu či peněžitého plnění. Pro účely této Veřejné licence se výměna Licencovaného obsahu za jiný obsah, na který se vztahují Autorská nebo obdobná práva, prostřednictvím digitálního sdílení souborů nebo obdobným způsobem považuje za Nekomerční, pokud taková výměna není spojena s peněžitým plněním.</li>
-<li id="s1l"><strong>Sdílením</strong> se rozumí poskytnutí obsahu veřejnosti jakýmkoli způsobem či prostředkem vyžadujícím ve smyslu Licencovaných práv svolení, jako například rozmnožování, veřejné vystavování, veřejné provozování, rozšiřování, šíření, zpřístupňování či dovoz a sdělování veřejnosti způsobem, že kdokoli může mít k obsahu přístup na místě a v čase podle své vlastní volby.</li>
-<li id="s1m"><strong>Zvláštními právy pořizovatele databáze</strong> se rozumí jiná než autorská práva plynoucí ze Směrnice Evropského parlamentu a Rady 96/9/ES z 11. března 1996 o právní ochraně databází, ve znění pozdějších či nahrazujících předpisů, jakož i další v zásadě rovnocenná práva kdekoli na světě.</li>
-<li id="s1n"><strong>Vy, Vám, Vámi, Vás</strong> označuje fyzickou nebo právnickou osobu, vykonávající Licencovaná práva na základě této Veřejné licence. <strong>Vaše, Vašeho, Vašemu, Vašich, Vaším</strong> má obdobný význam.</li>
-</ol>
-<p id="s2"><strong>Článek 2 – Rozsah.</strong></p>
-<ol type="a">
-<li id="s2a"><strong>Poskytnutí licence</strong>.
-<ol>
-<li id="s2a1">Za podmínek stanovených touto Veřejnou licencí Vám Poskytovatel poskytuje celosvětovou, bezúplatnou, nevýhradní, neodvolatelnou licenci, bez možnosti udělení podlicence, k výkonu Licencovaných práv k Licencovanému obsahu tímto způsobem a v tomto rozsahu:
-<ol type="A">
-<li id="s2a1A">rozmnožování a Sdílení Licencovaného obsahu jako celku nebo jeho části, a to pouze pro Nekomerční účely; a</li>
-<li id="s2a1B">vytváření, rozmnožování a Sdílení Zpracovaného obsahu pouze pro Nekomerční účely.</li>
-</ol>
-<li id="s2a2"><span style="text-decoration: underline;">Výjimky a omezení</span>. Pro vyloučení pochybností, pokud se na Vaše užití uplatňují Výjimky a omezení, neuplatňuje se tato Veřejná licence a nemusíte dodržovat její podmínky.</li>
-<li id="s2a3"><span style="text-decoration: underline;">Doba trvání</span>. Doba trvání této Veřejné licence je upravena v článku <a href="#s6a">6(a)</a>.</li>
-<li id="s2a4"><span style="text-decoration: underline;">Média a formáty; technické úpravy povoleny</span>. Poskytovatel Vás opravňuje vykonávat Licencovaná práva prostřednictvím všech médií a formátů známých v tuto chvíli i vzniklých v budoucnu a provádět technické úpravy k tomu potřebné. Poskytovatel se vzdává práva zakázat Vám technické úpravy potřebné k výkonu Licencovaných práv, a to včetně technických úprav potřebných k obcházení Účinných technických prostředků a/nebo souhlasí s tím, že toto právo nebude vykonávat. Pro účely této Veřejné licence platí, že samotné úpravy povolené v tomto článku <a href="#s2a4">2(a)(4)</a> nikdy nevedou k vytvoření Zpracovaného obsahu.</li>
-<li id="s2a5"><span style="text-decoration: underline;">Další příjemci</span>.
-<div class="para">
-<ol type="A">
-<li id="s2a5A"><span style="text-decoration: underline;">Nabídka Poskytovatele – Licencovaný obsah</span>. Každému příjemci Licencovaného obsahu je automaticky učiněna nabídka Poskytovatele k výkonu Licencovaných práv v souladu s podmínkami této Veřejné licence.</li>
-<li id="s2a5B"><span style="text-decoration: underline;">Další nabídka Poskytovatele – Zpracovaný obsah</span>. Každému příjemci Zpracovaného obsahu je Vámi automaticky učiněna nabídka k výkonu Licencovaných práva ke Zpracovanému obsahu v souladu s podmínkami Vámi poskytované Licence zpracovatele.</li>
-<li id="s2a5C"><span style="text-decoration: underline;">Žádná další omezení</span>. Licencovaný obsah nesmíte nabízet za dalších či jiných podmínek, ani na něj uplatňovat Účinné technické prostředky, pokud by to omezovalo vykonávání Licencovaných práv jakýmkoli příjemcem Licencovaného obsahu.</li>
-</ol>
-</div>
-<li id="s2a6"><span style="text-decoration: underline;">Vyloučení podpory</span>. Nic v této Veřejné licenci nezakládá ani nesmí být vykládáno jako povolení prohlašovat nebo naznačovat, že Vy nebo Vaše užití Licencovaného obsahu jste nějak podporování, schváleni, či propojeni s Poskytovatelem nebo kýmkoli jiným, kdo má být uveden dle článku <a href="#s3a1Ai">3(a)(1)(A)(i)</a>, nebo že Vám byl z jejich strany udělen oficiální status.</li>
-</ol>
-<li id="s2b"><p><strong>Další práva</strong>.</p>
-<ol>
-<li id="s2b1">Na osobnostní práva, jako například právo na nedotknutelnost, se tato Veřejná licence nevztahuje, stejně jako na právo na podobu a soukromí a/nebo další obdobná osobnostní práva; nicméně, k tomu, aby Vám umožnil vykonávat Licencovaná práva se Poskytovatel v nejširším možném rozsahu vzdává a/nebo se zavazuje je nevykonávat.</li>
-<li id="s2b2">Tato Veřejná licence se nevztahuje na práva z patentu a ochranné známky.</li>
-<li id="s2b3">Poskytovatel se v nejširším možném rozsahu vzdává veškerých práv, na jejichž základě od Vás může vybírat odměnu za vykonávání Licencovaných práv, ať už přímo či prostřednictvím kolektivního správce na základě jakéhokoli systému dobrovolné, rozšířené nebo povinné kolektivní správy. Ve všech ostatních případech si Poskytovatel výslovně vyhrazuje právo vybírat takovou odměnu, a to i v případě, že je Licencovaný obsah užít jinak než pro Nekomerční účely.</li>
-</ol>
-</li>
-</ol>
-<p id="s3"><strong>Článek 3 – Licenční podmínky.</strong></p>
-<p>Vykonávání Vám Licencovaných práv zcela podléhá následujícím podmínkám.</p>
-<ol type="a">
-<li id="s3a"><p><strong>Uveďte původ</strong>.</p>
-<ol>
-<li id="s3a1"><p>Pokud Sdílíte Licencovaný obsah (včetně jeho upravené podoby), musíte:</p>
-<ol type="A">
-<li id="s3a1A">zachovat následující informace, pokud je Poskytovatel s Licencovaným obsahem uvedl:
-<ol type="i">
-<li id="s3a1Ai">identifikace tvůrce (tvůrců) Licencovaného obsahu a kohokoli dalšího, kdo má být uveden, a to jakýmkoli Poskytovatelem požadovaným způsobem (včetně pseudonymu, pokud je uveden), pokud je tento způsob rozumný;</li>
-<li id="s3a1Aii">výhradu autorského práva;</li>
-<li id="s3a1Aiii">odkaz na tuto Veřejnou licenci;</li>
-<li id="s3a1Aiv">odkaz na vyloučení záruk;</li>
-<li id="s3a1Av">URI nebo hypertextový odkaz na Licencovaný obsah, pokud je to rozumně proveditelné;</li>
-</ol>
-<li id="s3a1B">uvést informace o případné úpravě Licencovaného obsahu a zachovat veškeré zmínky o předchozích úpravách; a</li>
-<li id="s3a1C">uvést, že Licencovaný obsah je licencován v souladu s touto Veřejnou licencí a uvést její text či URI nebo hypertextový odkaz na tuto Veřejnou licenci.</li>
-</ol>
-</li>
-<li id="s3a2">V závislosti na médiu, způsobu a kontextu ve kterém Licencovaný obsah sdílíte, můžete podmínky stanovené v článku <a href="#s3a1">3(a)(1)</a> splnit jakýmkoli přiměřeným způsobem. Za přiměřené lze například považovat splnění podmínek tím, že je uvedeno URI nebo hypertextový odkaz na zdroj, který obsahuje požadované informace.</li>
-<li id="s3a3">Pokud to Poskytovatel požaduje, musíte odstranit jakékoli informace požadované dle článku <a href="#s3a1A">3(a)(1)(A)</a> v rozumně proveditelném rozsahu.</li>
-</ol>
-</li>
-<li id="s3b"><strong>Zachovejte licenci</strong>.
-<p>Pokud Sdílíte Vámi vytvořený Zpracovaný obsah, uplatňují se na Sdílení kromě podmínek stanovených v článku <a href="#s3a">3(a)</a>také následující podmínky.</p>
-<ol>
-<li id="s3b1">Licence zpracovatele, kterou poskytujete, musí být licence Creative Commons se stejnými Licenčními prvky, a to tato nebo novější verze, nebo Licence kompatibilní s BY-NC-SA.</li>
-<li id="s3b2">Musíte uvést text poskytnuté Licence zpracovatele, nebo URI či hypertextový odkaz na něj. Tuto podmínku můžete splnit jakýmkoli přiměřeným způsobem v závislosti na médiu, způsobu a kontextu ve kterém Sdílíte Zpracovaný obsah.</li>
-<li id="s3b3">Zpracovaný obsah nesmíte nabízet za dalších či jiných podmínek, ani na něj uplatňovat Účinné technické prostředky, pokud by to omezovalo výkon práv udělených Licencí zpracovatele.</li>
-</ol>
-</li>
-</ol>
-<p id="s4"><strong>Článek 4 – Zvláštní práva pořizovatele databáze.</strong></p>
-<p>Pokud Licencovaná práva zahrnují Zvláštní práva pořizovatele databáze, která se vztahují na Vaše užití Licencovaného obsahu, platí, že:</p>
-<ol type="a">
-<li id="s4a">pro vyloučení pochybností, článek <a href="#s2a1">2(a)(1)</a> Vás opravňuje vytěžovat, zužitkovávat, rozmnožovat a Sdílet celý obsah databáze nebo podstatnou část obsahu databáze pouze pro Nekomerční účely;</li>
-<li id="s4b">pokud zahrnete celý obsah databáze nebo jeho podstatnou část do databáze, ke které Vám náleží Zvláštní práva pořizovatele databáze, potom je tato databáze (ovšem nikoli její jednotlivé prvky), ke které Vám náleží Zvláštní práva pořizovatele databáze, Zpracovaný obsah, a to i pro účely článku <a href="#s3b">3(b)</a>; a</li>
-<li id="s4c">pokud Sdílíte celý obsah databáze nebo její podstatnou část, musíte dodržet podmínky v článku <a href="#s3a">3(a)</a>.</li>
-</ol>
-Pro vyloučení pochybností, pokud Licencovaná práva zahrnují jiná Autorská a obdobná práva, článek <a href="#s4">4</a> doplňuje, nikoli nahrazuje, Vaše závazky vyplývající z této Veřejné licence.
-<p id="s5"><strong>Článek 5 – Vyloučení záruk a omezení odpovědnosti.</strong></p>
-<ol style="font-weight: bold;" type="a">
-<li id="s5a"><strong>Pokud nebylo Poskytovatelem stanoveno samostatným způsobem jinak, poskytuje Licencovaný obsah v maximálním možném rozsahu podle účinné právní úpravy takový, jaký je, a v podobě, v jaké je dostupný, a nic o něm neprohlašuje, ani k němu neposkytuje záruky, ať už výslovně, implicitně, podle zákona nebo jinak. To se vztahuje mimo jiné na záruku právního původu, prodejnosti, způsobilosti pro určitý účel, neporušení jiných práv, nepřítomnosti skrytých či jiných vad, přesnosti, přítomnosti či nepřítomnosti chyb, ať už známých nebo zjistitelných, či nikoli. Pokud není vyloučení záruky částečně nebo zcela dovoleno, nemusí se na Vás takové vyloučení vztahovat.</strong></li>
-<li id="s5b"><strong>Poskytovatel za žádných okolností neodpovídá nad minimální rozsah stanovený účinnou právní úpravou na základě jakéhokoliv konceptu odpovědnosti (a to mimo jiné i za nedbalost) a dále pak za jakékoli přímé, zvláštní, nepřímé, náhodné, následné, trestní, exemplární či jiné ztráty, náklady, výdaje, ani škody vzniklé v důsledku této Veřejné licence nebo užití Licencovaného obsahu, a to i tehdy, byl-li Poskytovatel poučen o možnosti vzniku takových ztrát, nákladů, výdajů nebo škod. Pokud není omezení odpovědnosti částečně nebo zcela dovoleno, nemusí se na Vás takové omezení vztahovat.</strong></li>
-</ol>
-<ol start="3" type="a">
-<li id="s5c">Výše uvedené vyloučení záruk a omezení odpovědnosti je nutno vykládat způsobem, který se v maximálním rozsahu možném podle účinné právní úpravy blíží absolutnímu vyloučení záruk a omezení veškeré odpovědnosti.</li>
-</ol>
-<p id="s6"><strong>Článek 6 – Doba trvání a zánik licence.</strong></p>
-<ol type="a">
-<li id="s6a">Tato Veřejná licence je poskytnuta po dobu trvání licencovaných Autorských a obdobných práv. Nicméně, pokud Veřejnou licenci nedodržíte, Vaše oprávnění podle této Veřejné licence automaticky zanikají.</li>
-<li id="s6b">
-<p>Pokud Vaše oprávnění k užití Licencovaného obsahu zaniklo podle článku <a href="#s6a">6(a)</a>, je znovu obnoveno:</p>
-<ol>
-<li id="s6b1">automaticky ke dni napravení porušení, za předpokladu, že k napravení dojde během 30 dní od okamžiku, kdy jste se o porušení dozvěděl(a); nebo</li>
-<li id="s6b2">na základě výslovného obnovení Poskytovatelem.</li>
-</ol>
-Pro vyloučení pochybností, článek <a href="#s6b">6(b)</a> se nedotýká jakýchkoli nároků Poskytovatele, kterých by se mohl na základě Vašeho porušení této Veřejné licence domáhat.</li>
-<li id="s6c">Pro vyloučení pochybností, Poskytovatel je rovněž oprávněn nabídnout Licencovaný obsah za jiných podmínek nebo přestat Licencovaný obsah kdykoli distribuovat. To nicméně nevede k zániku oprávnění vyplývajících z této Veřejné licence.</li>
-<li id="s6d">Články <a href="#s1">1</a>, <a href="#s5">5</a>, <a href="#s6">6</a>, <a href="#s7">7</a>, a <a href="#s8">8</a> zůstávají v platnosti a v účinnosti i po zániku Vašich oprávnění vyplývajících z této Veřejné licence.</li>
-</ol>
-<p id="s7"><strong>Článek 7 – Další podmínky.</strong></p>
-<ol type="a">
-<li id="s7a">Poskytovatel není vázán žádným Vaším návrhem dalších nebo rozdílných podmínek, ledaže by s tím výslovně souhlasil.</li>
-<li id="s7b">Jakékoli smlouvy, ujednání nebo dohody ohledně Licencovaného obsahu, které zde nejsou uvedeny, jsou oddělené a nezávislé na podmínkách této Veřejné licence.</li>
-</ol>
-<p id="s8"><strong>Článek 8 – Výklad.</strong></p>
-<ol type="a">
-<li id="s8a">Pro vyloučení pochybností, tato Veřejná licence neredukuje, nelimituje, neomezuje ani nepodmiňuje jakékoli užití Licencovaného obsahu, které je možné na základě zákona bez svolení uděleného podle této Veřejné licence, a ani v tomto smyslu nemůže být vykládána.</li>
-<li id="s8b">Pokud se jakékoli ustanovení této Veřejné licence ukáže jako neplatné, přizpůsobí se automaticky na minimální rozsah potřebný k jeho platnosti dle účinné právní úpravy. Pokud takové přizpůsobení daného ustanovení není možné, vypustí se z této Veřejné licence, aniž by to mělo vliv na platnost zbývajících podmínek.</li>
-<li id="s8c">Bez výslovného souhlasu Poskytovatele nebude upuštěno od žádné z podmínek této Veřejné licence, ani nebude konstatován souhlas s jejich nedodržením.</li>
-<li id="s8d">Nic v této Veřejné licenci nezakládá ani nesmí být vykládáno jako omezení nebo zřeknutí se jakýchkoli výhod a výsad, která se vztahují na Poskytovatele nebo na Vás, a to včetně těch, které vyplývají z řízení v rámci jakékoli jurisdikce či před jakýmikoli orgány.</li>
-</ol>
+The TAPR Open Hardware License
+Version 1.0 (May 25, 2007)
+Copyright 2007 TAPR - http://www.tapr.org/OHL
 
-<p class="shaded">Creative Commons není stranou svých veřejných licencí. Přesto se Creative Commons může rozhodnout použít některou ze svých veřejných licencí na obsah, který uveřejňuje, a v takovém případě se považuje za „Poskytovatele“. Texty veřejných licencí Creative Commons jsou uvolněny do public domain podle <a href="//creativecommons.org/publicdomain/zero/1.0/legalcode">CC0 Public Domain Dedication</a>. S výjimkou omezeného účelu označení obsahu sdíleného pod veřejnou licencí Creative Commons nebo v souladu s podmínkami uveřejněnými na adrese <a href="//creativecommons.org/policies">creativecommons.org/policies</a>, nedovoluje Creative Commons užití ochranné známky „Creative Commons” ani žádné další ochranné známky či loga Creative Commons bez předchozího písemného souhlasu, např. v souvislosti s jakýmikoli neschválenými úpravami některé z veřejných licencí Creative Commons nebo dalších smluv, ujednání či dohod týkajících se užití licencovaného obsahu. Pro vyloučení pochybností, tento odstavec není součástí těchto veřejných licencí.<br><br>
-Creative Commons je možno kontaktovat prostřednictvím <a href="//creativecommons.org/">creativecommons.org</a>.</p>
+PREAMBLE
+
+Open Hardware is a thing - a physical artifact, either electrical or
+mechanical - whose design information is available to, and usable by,
+the public in a way that allows anyone to make, modify, distribute, and
+use that thing.  In this preface, design information is called
+"documentation" and things created from it are called "products."
+
+The TAPR Open Hardware License ("OHL") agreement provides a legal
+framework for Open Hardware projects.  It may be used for any kind of
+product, be it a hammer or a computer motherboard, and is TAPR's
+contribution to the community; anyone may use the OHL for their Open
+Hardware project.
+
+Like the GNU General Public License, the OHL is designed to guarantee
+your freedom to share and to create.  It forbids anyone who receives
+rights under the OHL to deny any other licensee those same rights to
+copy, modify, and distribute documentation, and to make, use and
+distribute products based on that documentation.
+
+Unlike the GPL, the OHL is not primarily a copyright license.  While
+copyright protects documentation from unauthorized copying, modification, 
+and distribution, it has little to do with your right to make, distribute, 
+or use a product based on that documentation.  For better or worse, patents 
+play a significant role in those activities.  Although it does not prohibit 
+anyone from patenting inventions embodied in an Open Hardware design, and 
+of course cannot prevent a third party from enforcing their patent rights, 
+those who benefit from an OHL design may not bring lawsuits claiming that
+design infringes their patents or other intellectual property.
+
+The OHL addresses unique issues involved in the creation of tangible,
+physical things, but does not cover software, firmware, or code loaded
+into programmable devices.  A copyright-oriented license such as the GPL
+better suits these creations.
+
+How can you use the OHL, or a design based upon it?  While the terms and
+conditions below take precedence over this preamble, here is a summary:
+
+*  You may modify the documentation and make products based upon it.
+
+*  You may use products for any legal purpose without limitation.
+
+*  You may distribute unmodified documentation, but you must include the
+complete package as you received it.
+
+*  You may distribute products you make to third parties, if you either
+include the documentation on which the product is based, or make it
+available without charge for at least three years to anyone who requests
+it.
+
+*  You may distribute modified documentation or products based on it, if
+you:
+    *  License your modifications under the OHL.
+    *  Include those modifications, following the requirements stated
+       below.
+    *  Attempt to send the modified documentation by email to any of the
+       developers who have provided their email address.  This is a good
+       faith obligation - if the email fails, you need do nothing more
+       and may go on with your distribution.
+
+*  If you create a design that you want to license under the OHL, you
+should:
+    *  Include this document in a file named LICENSE (with the appropriate
+       extension) that is included in the documentation package.
+    *  If the file format allows, include a notice like "Licensed under
+       the TAPR Open Hardware License (www.tapr.org/OHL)" in each
+       documentation file.  While not required, you should also include
+       this notice on printed circuit board artwork and the product
+       itself; if space is limited the notice can be shortened or
+       abbreviated.
+    *  Include a copyright notice in each file and on printed circuit
+       board artwork.
+    *  If you wish to be notified of modifications that others may make,
+       include your email address in a file named "CONTRIB.TXT" or
+       something similar.
+
+*  Any time the OHL requires you to make documentation available to
+others, you must include all the materials you received from the
+upstream licensors.  In addition, if you have modified the
+documentation:
+    *  You must identify the modifications in a text file (preferably
+       named "CHANGES.TXT") that you include with the documentation. 
+       That file must also include a statement like "These modifications
+       are licensed under the TAPR Open Hardware License."
+    *  You must include any new files you created, including any
+       manufacturing files (such as Gerber files) you create in the
+       course of making products.
+    *  You must include both "before" and "after" versions of all files
+       you modified.
+    *  You may include files in proprietary formats, but you must also
+       include open format versions (such as Gerber, ASCII, Postscript,
+       or PDF) if your tools can create them.
+
+TERMS AND CONDITIONS
+
+1.   Introduction
+1.1  This Agreement governs how you may use, copy, modify, and
+distribute Documentation, and how you may make, have made, and
+distribute Products based on that Documentation.  As used in this
+Agreement, to "distribute" Documentation means to directly or indirectly
+make copies available to a third party, and to "distribute" Products
+means to directly or indirectly give, loan, sell or otherwise transfer
+them to a third party.
+
+1.2  "Documentation" includes:
+     (a) schematic diagrams;
+     (b) circuit or circuit board layouts, including Gerber and other
+         data files used for manufacture;
+     (c) mechanical drawings, including CAD, CAM, and other data files
+         used for manufacture;
+     (d) flow charts and descriptive text; and
+     (e) other explanatory material.
+Documentation may be in any tangible or intangible form of expression,
+including but not limited to computer files in open or proprietary
+formats and representations on paper, film, or other media.
+
+1.3  "Products" include:
+     (a) circuit boards, mechanical assemblies, and other physical parts
+         and components;
+     (b) assembled or partially assembled units (including components
+         and subassemblies); and
+     (c) parts and components combined into kits intended for assembly
+         by others;
+which are based in whole or in part on the Documentation.
+
+1.4  This Agreement applies to any Documentation which contains a
+notice stating it is subject to the TAPR Open Hardware License, and to
+all Products based in whole or in part on that Documentation.  If
+Documentation is distributed in an archive (such as a "zip" file) which
+includes this document, all files in that archive are subject to this
+Agreement unless they are specifically excluded.  Each person who
+contributes content to the Documentation is referred to in this
+Agreement as a "Licensor."
+
+1.5  By (a) using, copying, modifying, or distributing the
+Documentation, or (b) making or having Products made or distributing
+them, you accept this Agreement, agree to comply with its terms, and
+become a "Licensee."  Any activity inconsistent with this Agreement will
+automatically terminate your rights under it (including the immunities
+from suit granted in Section 2), but the rights of others who have
+received Documentation, or have obtained Products, directly or
+indirectly from you will not be affected so long as they fully comply
+with it themselves.
+
+1.6  This Agreement does not apply to software, firmware, or code
+loaded into programmable devices which may be used in conjunction with
+Documentation or Products.  Such software is subject to the license
+terms established by its copyright holder(s).
+
+2.   Patents
+2.1  Each Licensor grants you, every other Licensee, and every
+possessor or user of Products a perpetual, worldwide, and royalty-free
+immunity from suit under any patent, patent application, or other
+intellectual property right which he or she controls, to the extent
+necessary to make, have made, possess, use, and distribute Products.
+This immunity does not extend to infringement arising from modifications
+subsequently made by others.
+
+2.2  If you make or have Products made, or distribute Documentation
+that you have modified, you grant every Licensor, every other Licensee,
+and every possessor or user of Products a perpetual, worldwide, and
+royalty-free immunity from suit under any patent, patent application, or
+other intellectual property right which you control, to the extent
+necessary to make, have made, possess, use, and distribute Products.
+This immunity does not extend to infringement arising from modifications
+subsequently made by others.
+
+2.3  To avoid doubt, providing Documentation to a third party for the
+sole purpose of having that party make Products on your behalf is not
+considered "distribution,"\" and a third party's act of making Products
+solely on your behalf does not cause that party to grant the immunity
+described in the preceding paragraph.
+
+2.4  These grants of immunity are a material part of this Agreement,
+and form a portion of the consideration given by each party to the
+other.  If any court judgment or legal agreement prevents you from
+granting the immunity required by this Section, your rights under this
+Agreement will terminate and you may no longer use, copy, modify or
+distribute the Documentation, or make, have made, or distribute
+Products.
+
+3.   Modifications
+You may modify the Documentation, and those modifications will become
+part of the Documentation.  They are subject to this Agreement, as are
+Products based in whole or in part on them.  If you distribute the
+modified Documentation, or Products based in whole or in part upon it,
+you must email the modified Documentation in a form compliant with
+Section 4 to each Licensor who has provided an email address with the
+Documentation.  Attempting to send the email completes your obligations
+under this Section and you need take no further action if any address
+fails.
+
+4.   Distributing Documentation
+4.1  You may distribute unmodified copies of the Documentation in its
+entirety in any medium, provided that you retain all copyright and other
+notices (including references to this Agreement) included by each
+Licensor, and include an unaltered copy of this Agreement.
+4.2  You may distribute modified copies of the Documentation if you
+comply with all the requirements of the preceding paragraph and:
+     (a) include a prominent notice in an ASCII or other open format
+         file identifying those elements of the Documentation that you
+         changed, and stating that the modifications are licensed under
+         the terms of this Agreement;
+     (b) include all new documentation files that you create, as well as
+         both the original and modified versions of each file you change
+         (files may be in your development tool's native file format,
+         but if reasonably possible, you must also include open format,
+         such as Gerber, ASCII, Postscript, or PDF, versions);
+     (c) do not change the terms of this Agreement with respect to
+         subsequent licensees; and
+     (d) if you make or have Products made, include in the Documentation
+         all elements reasonably required to permit others to make
+         Products, including Gerber, CAD/CAM and other files used for
+         manufacture.
+
+5.   Making Products
+5.1  You may use the Documentation to make or have Products made,
+provided that each Product retains any notices included by the Licensor
+(including, but not limited to, copyright notices on circuit boards).
+5.2  You may distribute Products you make or have made, provided that
+you include with each unit a copy of the Documentation in a form
+consistent with Section 4.  Alternatively, you may include either (i) an
+offer valid for at least three years to provide that Documentation, at
+no charge other than the reasonable cost of media and postage, to any
+person who requests it; or (ii) a URL where that Documentation may be
+downloaded, available for at least three years after you last distribute
+the Product.
+
+6.   NEW LICENSE VERSIONS
+TAPR may publish updated versions of the OHL which retain the same
+general provisions as the present version, but differ in detail to
+address new problems or concerns, and carry a distinguishing version
+number.  If the Documentation specifies a version number which applies
+to it and "any later version", you may choose either that version or any
+later version published by TAPR.  If the Documentation does not specify
+a version number, you may choose any version ever published by TAPR. 
+TAPR owns the copyright to the OHL, but grants permission to any person
+to copy, distribute, and use it in unmodified form.
+
+7.   WARRANTY AND LIABILITY LIMITATIONS
+7.1  THE DOCUMENTATION IS PROVIDED ON AN"AS-IS" BASIS WITHOUT
+WARRANTY OF ANY KIND, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  ALL
+WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+TITLE, ARE HEREBY EXPRESSLY DISCLAIMED.
+7.2  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW WILL ANY LICENSOR
+BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OUT OF
+THE USE OF, OR INABILITY TO USE, THE DOCUMENTATION OR PRODUCTS,
+INCLUDING BUT NOT LIMITED TO CLAIMS OF INTELLECTUAL PROPERTY
+INFRINGEMENT OR LOSS OF DATA, EVEN IF THAT PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+7.3  You agree that the foregoing limitations are reasonable due to
+the non-financial nature of the transaction represented by this
+Agreement, and acknowledge that were it not for these limitations, the
+Licensor(s) would not be willing to make the Documentation available to
+you.
+7.4  You agree to defend, indemnify, and hold each Licensor harmless
+from any claim brought by a third party alleging any defect in the
+design, manufacture, or operation of any Product which you make, have
+made, or distribute pursuant to this Agreement.
+                                 ####
